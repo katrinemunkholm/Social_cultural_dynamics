@@ -3,6 +3,10 @@ Files created for my exam in Social and Cultural Dynamics, Cognitive Science 4th
 
 This repository contains three files.
 
+### Data_cleaned.csv
+The cleaned data frame after preprocessing in R.
+
+
 ### FinalABM.nlogo3d
 This is the ABM which was developed specifically for the purpose of this study
 
@@ -12,6 +16,5 @@ This is the exported data from which the data analysis was conducted.
 The data is exported directly from the ABM in NetLogo and contains 4040 runs.
 
 
-### Data_cleaned.csv
-The cleaned data frame after preprocessing in R.
+
 
